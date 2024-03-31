@@ -101,4 +101,4 @@ pip3 install awscli boto boto3
 
 #### Check
 
-`aws --profile=ceph --endpoint=http://ceph1 s3 ls s3://backup/
+`aws --profile=ceph --endpoint=http://ceph1 s3 ls s3://backup/`
